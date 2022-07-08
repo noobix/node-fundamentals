@@ -1,0 +1,14 @@
+{
+  "name": "first_node_app",
+  "version": "1.0.0",
+  "description": "first class in node",
+  "main": "src/index.js",
+  "author": "Kelvin Kabute",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
